@@ -1,1 +1,1 @@
-# Password-generator
+A Password Generator built using HTML, CSS, and JavaScript! 🔐✨ This tool generates strong, random passwords with customizable options, including length, uppercase/lowercase letters, numbers, and special characters. It ensures better security for users by creating unpredictable passwords in just one click! 🔑🚀
